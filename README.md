@@ -1,3 +1,3 @@
 # demo-tgbot
 
-I started learning Telegram Bots and will create them insh'Allah
+I started learning Telegram Bots and will create them insh'Allah.
