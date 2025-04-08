@@ -12,3 +12,4 @@ my second try
 
 1. Open index.py in your code editor (vs code)
 2. Edited again
+3. Smth added again
